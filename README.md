@@ -1,0 +1,1 @@
+# jest-default-props-eager-eval
